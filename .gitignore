@@ -8,7 +8,7 @@ npm-debug.log
 
 # README: Ignore the dist directories
 #
-dist/
+
 
 # Ignore gulp-generated vendor files
 #
